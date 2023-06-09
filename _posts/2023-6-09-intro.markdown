@@ -12,7 +12,7 @@ Regex or regular expressions is a format for creating patterns to match text. Th
 
 I'm basing this off of what I learn from: https://regexone.com/.
 
-Practice problems here: https://regexone.com/problem/matching_decimal_numbers
+Practice problems here: [link here](https://regexone.com/problem/matching_decimal_numbers)
 
 A cool link for learning and testing regex is: https://regexr.com/
 
