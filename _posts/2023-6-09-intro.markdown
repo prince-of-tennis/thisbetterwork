@@ -66,11 +66,3 @@ A cool link for learning and testing regex is: https://regexr.com/
 * for example, take the sentence: ```The cat scattered his food.``` The regex ```\bcat\b``` will match the word ```cat``` but not the ```cat``` in ```scattered```.
 
 ```\B``` for empty strings not at beginning or end of word
-
-
-
-
-
-
-
-
